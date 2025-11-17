@@ -78,3 +78,4 @@ if __name__ == "__main__":
     host = "localhost"
     port = 8765
     web.run_app(create_app(), host=host, port=port)
+    VPTK5eUIA05X7SvIE1u3fp1WzWygAA4ZfXtnb2Hzs4AzSeAd5AIA
